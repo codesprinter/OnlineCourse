@@ -45,7 +45,8 @@ namespace LinqAndEntityFramework.ConsoleApp
                     new Group{ Id = 3, Name = "Side Dish" },
                     new Group{ Id = 4, Name = "Starters" },
                     new Group{ Id = 5, Name = "Rices" },
-                    new Group{ Id = 6, Name = "Breads" }                
+                    new Group{ Id = 6, Name = "Breads" },               
+                    new Group{ Id = 7, Name = "Dessert" } 
             };
 
             DataProvider.Categories = new List<Category> { 
